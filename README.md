@@ -1,2 +1,4 @@
 # hello-world
-This is a sample repository for checking out usage of github
+Hi Humans,
+
+This is an ultra uber coder trying out features of github.
